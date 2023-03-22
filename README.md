@@ -1,9 +1,12 @@
 # simple_painter
 
-A new Flutter project.
+This is a simple drawing tool for learning flutter.
 
 ## Getting Started
 
+It utilizes flutter's CustomPaint widget (with CustomPainter class), hooks_flutter, and riverpod.
+
+---
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
