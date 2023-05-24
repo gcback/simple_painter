@@ -4,7 +4,7 @@ This is a simple drawing tool for learning flutter.
 
 ## Getting Started
 
-It utilizes flutter's CustomPaint widget (with CustomPainter class), hooks_flutter, and riverpod.
+It utilizes flutter's CustomPaint widget (with CustomPainter class), hooks_flutter, and riverpod
 
 ---
 This project is a starting point for a Flutter application.
